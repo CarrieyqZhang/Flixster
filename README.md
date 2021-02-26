@@ -23,7 +23,8 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 
 
 
-<img src="walkthrough2.gif" width=250><br>
+<img src="walkthrough2.gif" width=300><br>
+<img src="walkthrough4.gif" width=300><br>
 
 
 ## Flix Part 1
@@ -41,7 +42,7 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 
 ### App Walkthough GIF
 
-<img src="walkthrough.gif" width=250><br>
+<img src="walkthrough.gif" width=300><br>
 
 <img src="walkthrough3.gif" width=500><br>
 
